@@ -1,6 +1,6 @@
 ## Description
 
-This is a internal prototyp to write and read articles to/from Bexio.
+This is a internal prototype to write and read articles to/from Bexio.
 Based on [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
